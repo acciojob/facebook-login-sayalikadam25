@@ -22,7 +22,7 @@ body {
 form {
 	display: flex;
 	flex-direction: column;
-	background: white;
+	background-color: rgb(255,255,255);
 	padding: 20px;
 	width: 300px;
 	border-radius: 5px;
